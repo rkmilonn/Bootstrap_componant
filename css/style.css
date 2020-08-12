@@ -1,0 +1,23 @@
+.alert_section, .breadcrumb_section, .card_section, .form_section{
+	padding: 50px 0;
+	background-color: #fff5f5;
+}
+.heading{
+	text-align: center;
+}
+h1{
+	color: tomato;
+	text-align: center;
+}
+h2{
+	margin: 25px 0 5px 0;
+	font-size: 30px;
+	color:tomato;
+}
+.alert-custom{
+	background-color: tomato;
+}
+.badge_section, .button_section, .carousel_section{
+	padding: 50px 0;
+	background-color: #ddd;
+}
